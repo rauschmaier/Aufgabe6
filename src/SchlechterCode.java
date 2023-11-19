@@ -1,4 +1,4 @@
-public class SchlechterCode4 {
+public class SchlechterCode {
 
     public static void main(String[] args) {
         boolean ergebnis = pruefeBedingung(7, 12);
