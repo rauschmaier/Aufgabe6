@@ -9,14 +9,14 @@ In dieser Aufgabe soll Code verbessert werden. Hierfür soll ein neuer Zweig (Br
    - `git init`  --> Initialisiert ein neues lokales Git-Repository im aktuellen Verzeichnis.
    - `git add .`  --> Fügt alle Dateien im Verzeichnis dem Staging-Bereich hinzu.
    - `git commit -m "first commit"` --> Erstellt einen Commit mit den Änderungen im Staging-Bereich. Die Option -m ermöglicht das Hinzufügen einer Commit-Nachricht in einer Zeichenkette.
-   - `git remote add origin git@github.com:sttoraus/refactor.git` --> Fügt ein "Remote" mit dem Namen "origin" hinzu, das auf die angegebene GitHub-Repository-URL zeigt (anpassen!!!). Das Remote ist eine Verknüpfung zu einem entfernten Repository.
+   - `git remote add origin git@github.com:javaest/aufgabe-6-sttoraus.git` --> Fügt ein "Remote" mit dem Namen "origin" hinzu, das auf die angegebene GitHub-Repository-URL zeigt **(URL anpassen!)**. Das Remote ist eine Verknüpfung zu einem entfernten Repository.
    - `git pull origin main`  --> Synchronisiert den lokalen origin-Zweig mit dem entfernten main-Zweig. SchlechterCode.java sollte nun im lokalen src-Verzeichnis sein.
 
 3. Projekt in der IDE aktualisieren. (Eclipse: Rechtsklick auf das Projekt --> Refresh)
 
 4. `git branch NeuerBranch`  --> Erzeuge einen neuen Zweig mit dem Namen "NeuerBranch".
 
-5. `git checkout NeuerBranch`  --> Wechsle zum neuen Branch. Ab jetzt wird auf dem neuen Branch gearbeitet.
+5. `git checkout NeuerBranch`  --> Wechsel zum neuen Branch. Ab jetzt wird auf dem neuen Branch gearbeitet.
 
 6. Code verbessern und testen.
 
@@ -26,6 +26,6 @@ In dieser Aufgabe soll Code verbessert werden. Hierfür soll ein neuer Zweig (Br
 
 9. `git push origin NeuerBranch`  --> Lade den Branch online hoch und synchronisiere diesen mit dem lokalen.
 
-10. Prüfe online, ob der Branch angelegt wurde und ob der neue Code online verfügbar ist.
+10. Prüfe online, ob der Branch angelegt wurde und ob der neue Code online verfügbar ist. Prüfe auch, ob der main Branch mit dem "schlechten Code" noch vorhanden ist.
 
   
