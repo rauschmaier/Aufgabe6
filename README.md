@@ -14,7 +14,7 @@ In dieser Aufgabe soll Code verbessert werden. Hierfür soll ein neuer Zweig (Br
 
 3. Projekt in der IDE aktualisieren. (Eclipse: Rechtsklick auf das Projekt --> Refresh)
 
-4. `git branch NeueVersion`  --> Erzeuge einen neuen Zweig mit dem Namen "NeuerBranch".
+4. `git branch NeueVersion`  --> Erzeuge einen neuen Zweig mit dem Namen "NeuerVersion".
 
 5. `git checkout NeueVersion`  --> Wechsel zum neuen Branch. Ab jetzt wird auf dem neuen Branch gearbeitet.
 
