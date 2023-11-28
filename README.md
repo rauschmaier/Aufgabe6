@@ -10,7 +10,7 @@ In dieser Aufgabe soll Code verbessert werden. Hierfür soll ein neuer Zweig (Br
    - `git branch -M main` Hauptbranch in Main umbennen
    - `git commit -m "first commit"` --> Erstellt einen Commit mit den Änderungen im Staging-Bereich. Die Option -m ermöglicht das Hinzufügen einer Commit-Nachricht in einer Zeichenkette.
    - `git remote add origin git@LINK!!!` --> Fügt ein "Remote" mit dem Namen "origin" hinzu, das auf die angegebene GitHub-Repository-URL zeigt **(URL anpassen!)**. Das Remote ist eine Verknüpfung zu einem entfernten Repository.
-   - `git pull origin main --allow-unrelated-histories`  --> Synchronisiert den lokalen origin-Zweig mit dem entfernten main-Zweig. SchlechterCode.java sollte nun im lokalen src-Verzeichnis sein.
+   - `git pull origin main   --> Synchronisiert den lokalen origin-Zweig mit dem entfernten main-Zweig. SchlechterCode.java sollte nun im lokalen src-Verzeichnis sein.
 
 3. Projekt in der IDE aktualisieren. (Eclipse: Rechtsklick auf das Projekt --> Refresh)
 
