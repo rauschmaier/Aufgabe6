@@ -24,7 +24,7 @@ In dieser Aufgabe soll Code verbessert werden. Hierfür soll ein neuer Zweig (Br
 
 8. `git commit -m "Beschreibung"`  --> Erstelle einen Commit mit einer aussagekräftigen Beschreibung.
 
-9. `git push origin NeuerBranch`  --> Lade den Branch online hoch und synchronisiere diesen mit dem lokalen.
+9. `git push origin NeueVersion`  --> Lade den Branch online hoch und synchronisiere diesen mit dem lokalen.
 
 10. Prüfe online, ob der Branch angelegt wurde und ob der neue Code online verfügbar ist. Prüfe auch, ob der main Branch mit dem "schlechten Code" noch vorhanden ist.
 11. Online-Übung: Kapitel "Einführung"  https://learngitbranching.js.org/?locale=de_DE
